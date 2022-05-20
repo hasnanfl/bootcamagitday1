@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Semua LayananSuku CadangLayanan Bengkel_998253</name>
+   <tag></tag>
+   <elementGuidId>8933be56-e514-4a67-8905-dce25a27e837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#portal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f4f71ec-2a8b-4d1b-9b3c-a306f461a0e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>portal</value>
+      <webElementGuid>c0decd8d-a13c-4ecf-afde-e50c362edf5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua LayananSuku CadangLayanan BengkelHome ServiceBisnisLainnya</value>
+      <webElementGuid>e8e359aa-7d04-4c20-a464-b7abb3a9a797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portal&quot;)</value>
+      <webElementGuid>d819a6c0-1754-47b2-a138-9de923b56c59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='portal']</value>
+      <webElementGuid>8ad5c749-7d21-4461-b3e8-6f3a5b0e2a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All rights reserved.'])[1]/following::div[7]</value>
+      <webElementGuid>363457f0-e2ae-4152-874f-b1763a27a95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kunjungi Website Astra Otoparts'])[1]/following::div[8]</value>
+      <webElementGuid>0340b275-6e7d-4ace-a6e9-f4bf9431af5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div</value>
+      <webElementGuid>800bc0a3-d389-4e7a-933b-21777718d205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'portal' and (text() = 'Semua LayananSuku CadangLayanan BengkelHome ServiceBisnisLainnya' or . = 'Semua LayananSuku CadangLayanan BengkelHome ServiceBisnisLainnya')]</value>
+      <webElementGuid>253f1462-5f05-4e5d-8921-e15f325acbb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

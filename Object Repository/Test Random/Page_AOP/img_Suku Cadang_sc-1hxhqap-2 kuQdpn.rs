@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Suku Cadang_sc-1hxhqap-2 kuQdpn</name>
+   <tag></tag>
+   <elementGuidId>512e9da7-faa0-4eac-af80-f0efe3b12b25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portal']/div[2]/div[2]/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>34f03bc2-7aeb-4b37-b371-f4a4501547d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://newb2c.astraotoparts.co.id/asset/aop/layanan bengkel.png</value>
+      <webElementGuid>2d59d332-a580-4381-b310-540d60d7ed43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1hxhqap-2 kuQdpn</value>
+      <webElementGuid>a21afc00-0c33-4c2d-ba2b-462114e412c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portal&quot;)/div[@class=&quot;sc-1crxk01-0 lkwwJy sc-22dkih-0 kgwAUW&quot;]/div[@class=&quot;sc-10b1rua-4 cnaJaZ&quot;]/div[@class=&quot;sc-1crxk01-0 iNnGX sc-1hxhqap-0 fFaRKu&quot;]/div[@class=&quot;sc-1hxhqap-3 btnGPj&quot;]/img[@class=&quot;sc-1hxhqap-2 kuQdpn&quot;]</value>
+      <webElementGuid>5770eeb0-5d73-415b-9812-5a5fd1b7e020</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portal']/div[2]/div[2]/div[2]/div/img</value>
+      <webElementGuid>886602f9-a745-4fed-8513-86bae4f756da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/img</value>
+      <webElementGuid>941fff06-ad8d-4ff1-9f31-a0428f5b8abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://newb2c.astraotoparts.co.id/asset/aop/layanan bengkel.png']</value>
+      <webElementGuid>3568312f-4b6f-463b-a0a8-d090a4e406e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

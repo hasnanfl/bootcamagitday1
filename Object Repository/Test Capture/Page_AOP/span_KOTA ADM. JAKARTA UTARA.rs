@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KOTA ADM. JAKARTA UTARA</name>
+   <tag></tag>
+   <elementGuidId>a29cc0c0-322d-47c0-8be4-2c0c30a22cf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div/div[2]/div[3]/div[5]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7640a75f-ef7b-4d36-bf14-9c173ceb3d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>db1eddbd-e7b9-42f0-a372-4770529dc141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-w647qe-0 dVNDWw</value>
+      <webElementGuid>3ee39f89-0e68-41ea-a9db-11840bbba0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTA ADM. JAKARTA UTARA</value>
+      <webElementGuid>0d44d58a-7b55-4e5c-9fe0-a4155aa70e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;sc-1crxk01-0 TStUl sc-1p37un2-5 drQvKV&quot;]/div[@class=&quot;sc-1crxk01-0 fGAGHp&quot;]/div[@class=&quot;sc-1crxk01-0 dHgkaI&quot;]/span[@class=&quot;sc-w647qe-0 dVNDWw&quot;]</value>
+      <webElementGuid>c8bd0860-854f-4ccc-bee2-d2b1babe28e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/div/div[2]/div[3]/div[5]/span[2]</value>
+      <webElementGuid>42015bd9-3a5c-4256-a016-c1c988c1cb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA ADM. JAKARTA TIMUR'])[1]/following::span[2]</value>
+      <webElementGuid>71adcf9f-3161-46aa-ae45-1a19085c17b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA BEKASI'])[1]/following::span[4]</value>
+      <webElementGuid>6a86c428-6ce1-4169-9c90-f6686ccd1ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>deaf140f-8ccd-427f-bb31-17140ec6fba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
+      <webElementGuid>c4efcc1c-ba61-48aa-8d1e-e7fa86c836b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KOTA ADM. JAKARTA UTARA']/parent::*</value>
+      <webElementGuid>216e2a0b-a329-4527-ab7e-5f7a4da1c1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span[2]</value>
+      <webElementGuid>1ccb0845-fdfd-46b6-a5cd-45501a83bb7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'KOTA ADM. JAKARTA UTARA' or . = 'KOTA ADM. JAKARTA UTARA')]</value>
+      <webElementGuid>2665460d-5fdd-40b8-8157-ca588764a2fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
